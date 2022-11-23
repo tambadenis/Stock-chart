@@ -1,0 +1,21 @@
+#container {
+  height: 400px;
+  min-width: 310px;
+}
+
+.hidden {
+  display: none;
+}
+
+* {
+  text-align: center;
+}
+
+h1 {
+  color: #999999;
+  font-family: arial, sans-serif;
+  font-size: 16px;
+  font-weight: bold;
+  margin-top: 0px;
+  margin-bottom: 10px;
+}
